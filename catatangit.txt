@@ -5,3 +5,10 @@ source versioning :
 
 terpusat exp: SVN
 terdistribusi exp: git
+
+- inisiasi git : git init
+- cek status : git status 
+        untrack : itu berarti file tersebut blm ada dalam catatan git
+- Changes to be committed: file tersebut sudah di set untuk ditambahkan ke catatan git
+- melakukann penyimpanan kedalam catatan git : git commit -m "commit pertama"
+- melihat catatan log git : git log, lalu ketik g untuk exit dari log 
