@@ -1,0 +1,7 @@
+source versioning :
+
+- terpusat
+- terdistribusi
+
+terpusat exp: SVN
+terdistribusi exp: git
